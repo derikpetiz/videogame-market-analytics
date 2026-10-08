@@ -14,7 +14,7 @@
 
 Este projeto assume o papel de um **Analista de Dados** atuando para a loja online de jogos eletrônicos **Ice**.
 
-Simulando o cenário de **dezembro de 2016**, o objetivo principal é realizar um diagnóstico profundo sobre os dados históricos de vendas globais de videogames para identificar padrões de sucesso comercial, avaliar o comportamento e ciclo de vida de plataformas e gêneros, e **fundamentar a alocação de orçamento de marketing, planejamento financeiro e estoque para o ano de 2017**.
+Simulando o cenário de **dezembro de 2016**, o objetivo principal é realizar um diagnóstico aprofundado nos dados históricos de vendas globais de videogames para identificar padrões de consumo, avaliar o comportamento e ciclo de vida de plataformas e gêneros, e **fundamentar a alocação de orçamento de marketing, planejamento financeiro e estoque para o ano de 2017**.
 
 ### Questões Estratégicas Respondidas:
 1. Quais plataformas estão em ascensão e quais já atingiram o fim de seu ciclo de vida comercial?
@@ -38,5 +38,5 @@ Simulando o cenário de **dezembro de 2016**, o objetivo principal é realizar u
 
 ```text
 ├── games.csv              # Dataset histórico de vendas, avaliações e classificações de jogos
-├── notebook.ipynb         # Notebook principal com tratamento de dados, EDA, perfil regional e testes $t$
+├── notebook.ipynb         # Notebook principal com tratamento de dados, EDA, perfil regional e testes t
 └── README.md              # Documentação executiva do projeto
