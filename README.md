@@ -15,7 +15,7 @@ A Ice é uma loja online de videogames que vende para todo o mundo. O objetivo d
 ---
 
 ### 1. Ciclo de Vida e Tendência de Vendas das Plataformas
-![Vendas Totais por Plataforma](assets/videogame_sales_by_platform.png)
+![Vendas Totais por Plataforma](videogame_sales_by_platform.png)
 
 - **Hipótese:** As plataformas de jogos possuem um ciclo de vida útil limitado e consoles da nova geração (PS4 e Xbox One) estão no pico de crescimento, enquanto a geração anterior está em declínio acentuado.
 - **Conclusão:** O ciclo de vida médio de um console até o declínio total é de **8 a 10 anos**, com o pico de vendas ocorrendo entre **4 e 6 anos** após o lançamento. Para o planejamento de 2017, **PS4** e **Xbox One** despontam como as plataformas mais lucrativas e em fase de sustentação de vendas.
@@ -23,7 +23,7 @@ A Ice é uma loja online de videogames que vende para todo o mundo. O objetivo d
 ---
 
 ### 2. Impacto das Avaliações da Crítica vs. Usuários nas Vendas
-![Avaliações da Crítica e Vendas no PS4](assets/videogame_critic_vs_sales.png)
+![Avaliações da Crítica e Vendas no PS4](videogame_critic_vs_sales.png)
 
 - **Hipótese:** Avaliações altas de críticos especializados e de usuários possuem forte correlação positiva com o volume total de vendas globais de um jogo.
 - **Conclusão:** A pontuação da crítica (`critic_score`) apresenta uma correlação positiva moderada com as vendas ($r \approx 0,40$), atuando como um importante vetor de atração comercial. Por outro lado, a nota dos usuários (`user_score`) possui correlação próxima de zero, demonstrando que a avaliação do público final não determina diretamente o volume faturado de um título.
@@ -31,7 +31,7 @@ A Ice é uma loja online de videogames que vende para todo o mundo. O objetivo d
 ---
 
 ### 3. Distribuição das Vendas por Gênero nos Mercados Regionais (NA, EU, JP)
-![Participação de Gêneros por Região](assets/videogame_regional_genres.png)
+![Participação de Gêneros por Região](videogame_regional_genres.png)
 
 - **Insight Chave:** Os mercados da **América do Norte (NA)** e **Europa (EU)** são extremamente semelhantes, com absoluta liderança dos gêneros **Action** e **Shooter** e preferência por jogos de classificação etária **M (Mature 17+)**. Em contrapartida, o mercado do **Japão (JP)** exibe um comportamento único, dominado por consoles portáteis (**Nintendo 3DS**), gênero **Role-Playing (RPG)** e títulos sem classificação ESRB devido à regulação local.
 
