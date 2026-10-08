@@ -1,4 +1,3 @@
-Markdown
 # 🎮 Videogame Market Analytics — Análise Estratégica & Testes de Hipóteses
 
 ![Python](https://img.shields.io/badge/Python-3873A9?style=for-the-badge&logo=python&logoColor=white)
